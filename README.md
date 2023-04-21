@@ -1,4 +1,4 @@
-![spotify_banner_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZI1gdr0nCMT7pLC8UOVjQ3YC-rQHdzYiuCw&usqp=CAU)
+![spotify_banner_image](https://pbs.twimg.com/media/FRx-YdNVgAINIts?format=jpg&name=large)
 
 # Table of contents
 
